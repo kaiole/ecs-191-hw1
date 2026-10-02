@@ -1,0 +1,6 @@
+build/
+.build/
+Packages/InstalogCore/.build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
